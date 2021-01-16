@@ -1,0 +1,14 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organization.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organization.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organzation.Repository.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organzation.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organzation.Repository.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organization.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\bin\Debug\netcoreapp3.1\Organization.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organzation.Repository\obj\Debug\netcoreapp3.1\Organzation.Repository.pdb

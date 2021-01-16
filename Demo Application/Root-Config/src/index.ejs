@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Root Config</title>
+
+  <!--
+    Remove this if you only support browsers that support async/await.
+    This is needed by babel to share largeish helper code for compiling async/await in older
+    browsers. More information at http://github.com/single-spa/create-single-spa/issues/112
+  -->
+  <script src="http://cdn.jsdelivr.net/npm/regenerator-runtime@0.13.7/runtime.min.js"></script>
+
+
+  <style>
+    body {
+      line-height: 30px !important;
+      font-size: 16px !important;
+      min-height: auto !important;
+    }
+
+    html {
+      background-color: white !important;
+    }
+
+    a:not(.md-button):hover {
+      text-decoration: none !important;
+    }
+
+    a:not(.md-button):hover {
+      color: white !important;
+    }
+
+    .no-border {
+      box-shadow: none !important;
+    }
+  </style>
+
+  <!--
+    This CSP allows any SSL-enabled host and for arbitrary eval(), but you should limit these directives further to increase your app's security.
+    Learn more about CSP policies at http://content-security-policy.com/#directive
+  -->
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self' http: localhost:*; script-src 'unsafe-inline' 'unsafe-eval' http: localhost:*; connect-src http: localhost:* ws://*:*; style-src 'unsafe-inline' http:; object-src 'none';">
+  <meta name="importmap-type" content="systemjs-importmap" />
+
+
+  <script type="systemjs-importmap">
+    {
+      "imports": {
+        "single-spa": "http://cdn.jsdelivr.net/npm/single-spa@5.8.3/lib/system/single-spa.min.js"
+      }
+    }
+  </script>
+  <link rel="preload" href="http://cdn.jsdelivr.net/npm/single-spa@5.8.3/lib/system/single-spa.min.js" as="script">
+
+  <!-- Vue-Bootstrap CDN Links -->
+  <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css" />
+  <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.css" />
+
+  <!-- Add Vue and BootstrapVue scripts just before the closing </body> tag -->
+  <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
+  <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.min.js"></script>
+
+  <!-- Add your organization's prod import map URL to this script's src  -->
+  <!-- <script type="systemjs-importmap" src="/importmap.json"></script> -->
+
+  <% if (isLocal) { %>
+    <script type="systemjs-importmap">
+    {
+      "imports": {
+        "@single-spa/welcome": "http://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js",
+        "vue":"http://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.js",
+        "vue-router":"http://cdn.jsdelivr.net/npm/vue-router@3.1.6/dist/vue-router.min.js",
+        "@cargoerp/root-config": "//localhost:9000/cargoerp-root-config.js",
+        "@cargoerp/navbar":"http://localhost/navbar/js/app.js",
+        "@cargoerp/shipment":"http://localhost/shipment/js/app.js",
+        "@cargoerp/organization":"http://localhost/organization/js/app.js",
+        "@cargoerp/dashboard":"http://localhost/dashboard/js/app.js"
+      }
+    }
+  </script>
+    <% } %>
+
+      <!--
+    If you need to support Angular applications, uncomment the script tag below to ensure only one instance of ZoneJS is loaded
+    Learn more about why at http://single-spa.js.org/docs/ecosystem-angular/#zonejs
+  -->
+      <!-- <script src="http://cdn.jsdelivr.net/npm/zone.js@0.10.3/dist/zone.min.js"></script> -->
+
+      <% if (isLocal) { %>
+        <script src="http://cdn.jsdelivr.net/npm/import-map-overrides@2.2.0/dist/import-map-overrides.js"></script>
+        <script src="http://cdn.jsdelivr.net/npm/systemjs@6.8.0/dist/system.js"></script>
+        <script src="http://cdn.jsdelivr.net/npm/systemjs@6.8.0/dist/extras/amd.js"></script>
+        <% } else { %>
+          <script src="http://cdn.jsdelivr.net/npm/import-map-overrides@2.2.0/dist/import-map-overrides.js"></script>
+          <script src="http://cdn.jsdelivr.net/npm/systemjs@6.8.0/dist/system.min.js"></script>
+          <script src="http://cdn.jsdelivr.net/npm/systemjs@6.8.0/dist/extras/amd.min.js"></script>
+          <% } %>
+
+            <template id="single-spa-layout">
+              <single-spa-router>
+                <nav>
+                  <application name="@cargoerp/navbar"></application>
+                </nav>
+              </single-spa-router>
+            </template>
+</head>
+
+<body>
+  <script>
+    System.import('@cargoerp/root-config');
+  </script>
+  <import-map-overrides-full show-when-local-storage="devtools" dev-libs></import-map-overrides-full>
+</body>
+
+</html>

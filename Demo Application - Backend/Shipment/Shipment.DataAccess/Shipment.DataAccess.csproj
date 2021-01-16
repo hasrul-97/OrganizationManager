@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shipment.Abstraction\Shipment.Abstraction.csproj" />
+    <ProjectReference Include="..\Shipment.Models\Shipment.Models.csproj" />
+    <ProjectReference Include="..\Shipment.Repository\Shipment.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

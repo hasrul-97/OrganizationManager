@@ -1,0 +1,43 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/Organization",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/Organization",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "ServiceName": "Organization",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/Shipment",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/Shipment",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "ServiceName": "Shipment",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/Metrics",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/Metrics",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "ServiceName": "Metrics",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44345"
+  },
+  "ServiceDiscoveryProvider": {
+    "Host": "localhost",
+    "Port": 8500,
+    "Type": "PollConsul",
+    "PollingInterval": 100
+  }
+}

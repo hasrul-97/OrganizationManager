@@ -1,0 +1,16 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.DataAccess.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.DataAccess.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.DataAccess.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\bin\Debug\netcoreapp3.1\Metrics.Repository.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.DataAccess\obj\Debug\netcoreapp3.1\Metrics.DataAccess.pdb

@@ -1,0 +1,14 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Repository.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Repository.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\bin\Debug\netcoreapp3.1\Metrics.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Repository\obj\Debug\netcoreapp3.1\Metrics.Repository.pdb

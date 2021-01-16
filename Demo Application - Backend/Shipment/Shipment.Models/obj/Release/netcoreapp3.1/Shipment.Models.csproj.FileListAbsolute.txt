@@ -1,0 +1,9 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\bin\Release\netcoreapp3.1\Shipment.Models.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\bin\Release\netcoreapp3.1\Shipment.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\bin\Release\netcoreapp3.1\Shipment.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\obj\Release\netcoreapp3.1\Shipment.Models.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\obj\Release\netcoreapp3.1\Shipment.Models.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\obj\Release\netcoreapp3.1\Shipment.Models.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\obj\Release\netcoreapp3.1\Shipment.Models.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\obj\Release\netcoreapp3.1\Shipment.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Models\obj\Release\netcoreapp3.1\Shipment.Models.pdb

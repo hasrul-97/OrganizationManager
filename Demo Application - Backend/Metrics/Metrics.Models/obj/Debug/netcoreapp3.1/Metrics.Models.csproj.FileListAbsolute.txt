@@ -1,0 +1,9 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\bin\Debug\netcoreapp3.1\Metrics.Models.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\bin\Debug\netcoreapp3.1\Metrics.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\bin\Debug\netcoreapp3.1\Metrics.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\obj\Debug\netcoreapp3.1\Metrics.Models.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\obj\Debug\netcoreapp3.1\Metrics.Models.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\obj\Debug\netcoreapp3.1\Metrics.Models.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\obj\Debug\netcoreapp3.1\Metrics.Models.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\obj\Debug\netcoreapp3.1\Metrics.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Metrics\Metrics.Models\obj\Debug\netcoreapp3.1\Metrics.Models.pdb

@@ -1,0 +1,506 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics\\Metrics.csproj": {}
+  },
+  "projects": {
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj",
+        "projectName": "Metrics.Abstraction",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\Metrics.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\Metrics.Business.csproj",
+        "projectName": "Metrics.Business",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\Metrics.Business.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DataAccess\\Metrics.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DataAccess\\Metrics.DataAccess.csproj",
+        "projectName": "Metrics.DataAccess",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DataAccess\\Metrics.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DepedencyInjection\\Metrics.DepedencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DepedencyInjection\\Metrics.DepedencyInjection.csproj",
+        "projectName": "Metrics.DepedencyInjection",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DepedencyInjection\\Metrics.DepedencyInjection.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DepedencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\Metrics.Business.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\Metrics.Business.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DataAccess\\Metrics.DataAccess.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DataAccess\\Metrics.DataAccess.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj",
+        "projectName": "Metrics.Models",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\Metrics.Models.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj",
+        "projectName": "Metrics.Repository",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\Metrics.Repository.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics\\Metrics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics\\Metrics.csproj",
+        "projectName": "Metrics",
+        "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics\\Metrics.csproj",
+        "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+        "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Abstraction\\Metrics.Abstraction.csproj"
+              },
+              "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DepedencyInjection\\Metrics.DepedencyInjection.csproj": {
+                "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.DepedencyInjection\\Metrics.DepedencyInjection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Steeltoe.Discovery.ClientCore": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Steeltoe.Discovery.Consul": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

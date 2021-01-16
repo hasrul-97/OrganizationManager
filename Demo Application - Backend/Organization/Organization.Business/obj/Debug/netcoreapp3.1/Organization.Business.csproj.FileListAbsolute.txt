@@ -1,0 +1,14 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Business.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Business.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Business.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\bin\Debug\netcoreapp3.1\Organization.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Business\obj\Debug\netcoreapp3.1\Organization.Business.pdb

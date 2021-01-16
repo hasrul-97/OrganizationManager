@@ -1,0 +1,16 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.DataAccess.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.DataAccess.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.DataAccess.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\bin\Debug\netcoreapp3.1\Shipment.Repository.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.DataAccess\obj\Debug\netcoreapp3.1\Shipment.DataAccess.pdb

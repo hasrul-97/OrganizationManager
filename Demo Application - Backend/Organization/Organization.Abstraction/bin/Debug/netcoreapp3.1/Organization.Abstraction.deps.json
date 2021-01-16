@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Organization.Abstraction/1.0.0": {
+        "dependencies": {
+          "Organization.Models": "1.0.0"
+        },
+        "runtime": {
+          "Organization.Abstraction.dll": {}
+        }
+      },
+      "Organization.Models/1.0.0": {
+        "runtime": {
+          "Organization.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Organization.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Organization.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

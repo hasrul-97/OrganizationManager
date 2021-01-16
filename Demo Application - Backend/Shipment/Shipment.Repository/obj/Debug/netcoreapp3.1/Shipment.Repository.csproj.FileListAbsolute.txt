@@ -1,0 +1,14 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Repository.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Repository.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\bin\Debug\netcoreapp3.1\Shipment.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Shipment\Shipment.Repository\obj\Debug\netcoreapp3.1\Shipment.Repository.pdb

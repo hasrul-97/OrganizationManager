@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Organization.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Organization.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Organization.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Organization.Models/1.0.0": {
+      "type": "project",
+      "path": "../Organization.Models/Organization.Models.csproj",
+      "msbuildProject": "../Organization.Models/Organization.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Organization.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hasru\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Organization\\Organization.Abstraction\\Organization.Abstraction.csproj",
+      "projectName": "Organization.Abstraction",
+      "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Organization\\Organization.Abstraction\\Organization.Abstraction.csproj",
+      "packagesPath": "C:\\Users\\hasru\\.nuget\\packages\\",
+      "outputPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Organization\\Organization.Abstraction\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hasru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Organization\\Organization.Models\\Organization.Models.csproj": {
+              "projectPath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Organization\\Organization.Models\\Organization.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

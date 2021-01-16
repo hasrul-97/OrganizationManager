@@ -1,0 +1,14 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.DataAccess.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.DataAccess.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.DataAccess.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\bin\Debug\netcoreapp3.1\Organization.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.DataAccess\obj\Debug\netcoreapp3.1\Organization.DataAccess.pdb

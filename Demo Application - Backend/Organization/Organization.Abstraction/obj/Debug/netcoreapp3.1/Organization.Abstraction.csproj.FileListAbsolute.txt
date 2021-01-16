@@ -1,0 +1,12 @@
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\bin\Debug\netcoreapp3.1\Organization.Abstraction.deps.json
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\bin\Debug\netcoreapp3.1\Organization.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\bin\Debug\netcoreapp3.1\Organization.Abstraction.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\bin\Debug\netcoreapp3.1\Organization.Models.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\bin\Debug\netcoreapp3.1\Organization.Models.pdb
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.csprojAssemblyReference.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.AssemblyInfoInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.AssemblyInfo.cs
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.csproj.CoreCompileInputs.cache
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.csproj.CopyComplete
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.dll
+B:\Vue Workstation\CargoERP\Demo Application - Backend\Organization\Organization.Abstraction\obj\Debug\netcoreapp3.1\Organization.Abstraction.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhZJKXVM0q6hmrdvqN3hyzGEu83S9szp6BvJS2Qw9M2o89y309shxJuzGXXIz4WBqjwYOaJpzkp3i+Z6lJAGIg==",
+  "success": true,
+  "projectFilePath": "B:\\Vue Workstation\\CargoERP\\Demo Application - Backend\\Metrics\\Metrics.Business\\Metrics.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hasru\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hasru\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hasru\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hasru\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
